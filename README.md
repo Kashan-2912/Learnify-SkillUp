@@ -175,7 +175,7 @@ https://cloud.google.com/storage/docs/gsutil/commands/cors
 
 # Lessons Learned
 
-Learned all about React.js including hooks (useState, useEffect, useRef, useNavigate), props, components, Tailwind CSS, responsiveness and Firebase especially including firestore, firestore-storage, firestore-authentication.
+Learned all about React.js including hooks (useState, useEffect, useParams, useRef, useNavigate), props, components, Tailwind CSS, responsiveness and Firebase especially including firestore, firestore-storage, firestore-authentication.
 
 It was a challenging journey to make this project but I gave my full potential and brought dream to life.
 
